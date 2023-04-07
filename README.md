@@ -1,5 +1,5 @@
 # Saqib Saleem
-!Check it (Profile.jpeg)
+!Check it(Profile.jpeg)
 
 Welcome to my GitHub portfolio! Here you can find some of my recent projects and get to know me a little better.
 
